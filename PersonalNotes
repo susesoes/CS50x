@@ -1,1 +1,25 @@
-WEEK 0 Scratch
+# WEEK 0 Scratch [https://cs50.harvard.edu/x/2025/weeks/0/]
+Computational thinking ;-)
+- problem solving
+
+binary system (0, 1) = bit
+transistors can count until 7
+human world use decimal (0-9)
+byte = 8 bits
+to represent other caracters is necessary to use the ASCII (256 caracters)
+but we need more caracters. With 32bits we can represent 4 billion caracters
+Unicode 32bits
+How to represent colors?
+(RGB) usign the same system pathern
+How to represent music?
+the same
+You can essentially tell the computer, use this to store a number or a letter or a color or something else. 
+
+ALGORITHM: Now we need to converts (those inputs to outputs) those problems to solutions. Step by step instructions for solving some problem.
+
+Translate to code
+- Functions. It's like a bite-sized task that a computer can do for you.
+- Conditions. decide which way to go.
+- Boolean. Like true or false answer.
+- Loop. Go back to
+1:03:00
